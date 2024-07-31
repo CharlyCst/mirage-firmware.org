@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<svg width="400" height="400" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <symbol height="49.338074mm" id="svg_18" viewBox="0 0 49.338074 49.338074" width="49.338074mm" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <g id="svg_2" transform="translate(-584.39569,-395.8748)">
+    <g id="svg_3">
+     <g id="svg_4">
+      <g id="svg_5">
+       <g id="svg_10" transform="translate(8.3333325e-6,263.31402)"/>
+       <path d="m-555.89,-886.45c-4.3,0 -8.6,1.64 -11.9,4.94l-17.21,17.21a8.69,8.69 89.999581 0 0 0,12.29l22.97,22.96a8.69,8.69 179.99981 0 0 12.29,0l22.96,-22.96a8.69,8.69 90.000228 0 0 0,-12.29l-17.21,-17.21c-3.29,-3.3 -7.6,-4.94 -11.9,-4.94zm-52.85,45.89l-17.21,17.21c-6.59,6.59 -6.59,17.21 0,23.8l58.16,58.15c6.59,6.6 17.21,6.6 23.8,0l58.16,-58.15c6.59,-6.59 6.59,-17.21 0,-23.8l-17.21,-17.21a8.69,8.69 0.00019574615000000008 0 0 -12.29,0l-34.83,34.84c-0.7,0.67 -1.51,1.21 -2.4,1.6c-0.28,0.11 -0.56,0.2 -0.85,0.28c-0.64,0.21 -1.31,0.34 -1.98,0.39c-0.33,0.02 -0.67,0.02 -1,0c-0.67,-0.05 -1.34,-0.18 -1.97,-0.39c-0.29,-0.08 -0.58,-0.17 -0.86,-0.28c-0.89,-0.39 -1.7,-0.93 -2.4,-1.6l-34.83,-34.84a8.69,8.69 179.99946 0 0 -12.29,0z" fill="url(#svg_9)" id="svg_8" stroke-opacity="0.55" stroke-width="2" transform="matrix(0.32891259,0,0,0.32891259,791.90401,687.44058)"/>
+       <path d="m-602.6,-843.1c-2.3,0 -4.51,0.91 -6.14,2.54l-17.21,17.21c-6.59,6.59 -6.59,17.21 0,23.8l26.69,26.68a11.48,11.48 179.99982 0 0 16.24,0l32.86,-32.85c-0.7,0.67 -1.51,1.21 -2.4,1.6c-0.28,0.11 -0.56,0.2 -0.85,0.28c-0.64,0.21 -1.31,0.34 -1.98,0.39c-0.33,0.02 -0.67,0.02 -1,0c-0.67,-0.05 -1.34,-0.18 -1.97,-0.39c-0.29,-0.08 -0.58,-0.17 -0.86,-0.28c-0.89,-0.39 -1.7,-0.93 -2.4,-1.6l-34.83,-34.84c-1.63,-1.63 -3.84,-2.54 -6.15,-2.54z" fill="url(#svg_7)" id="svg_6" stroke-opacity="0.55" stroke-width="2" transform="matrix(0.32891259,0,0,0.32891259,791.90401,687.44058)"/>
+      </g>
+     </g>
+    </g>
+   </g>
+  </symbol>
+  <linearGradient id="svg_12">
+   <stop id="svg_17" offset="0" stop-color="#0094bc"/>
+   <stop id="svg_16" offset="1" stop-color="#240073"/>
+  </linearGradient>
+  <linearGradient id="svg_13">
+   <stop id="svg_15" offset="0" stop-color="#77b8ce"/>
+   <stop id="svg_14" offset="1" stop-color="#0060d6"/>
+  </linearGradient>
+  <linearGradient id="svg_9" x1="-Infinity" x2="-Infinity" xlink:href="#svg_13" y1="-Infinity" y2="-Infinity"/>
+  <linearGradient id="svg_7" x1="-Infinity" x2="-Infinity" xlink:href="#svg_12" y1="-Infinity" y2="-Infinity"/>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <use fill="none" id="svg_19" opacity="0.3" transform="matrix(0.97735, 0, 0, 0.97735, -8.04399, -58.9266)" x="-29.76" xlink:href="#svg_18" y="246.72"/>
+  <use fill="none" id="svg_21" opacity="0.3" transform="matrix(-0.97735, -1.19691e-16, 1.19691e-16, -0.97735, 621.686, 311.031)" x="191.57" xlink:href="#svg_18" y="97.11"/>
+ </g>
+</svg>
