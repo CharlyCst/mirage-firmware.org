@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_miralis=self.webpackChunkwebsite_miralis||[]).push([[8121],{8070:s=>{s.exports=JSON.parse('{"tags":[{"label":"News","permalink":"/blog/tags/news","description":"News and updates about Miralis","count":4}]}')}}]);

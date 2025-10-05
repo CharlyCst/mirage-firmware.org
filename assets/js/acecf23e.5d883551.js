@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite_miralis=self.webpackChunkwebsite_miralis||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
